@@ -1,0 +1,3 @@
+flask-restful
+opencv-python
+mysql-connector-python
